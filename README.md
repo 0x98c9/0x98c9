@@ -25,15 +25,13 @@ I’ve built **5+ micro SaaS products** focused on education, productivity, and 
 
 - **Frontend:** React, Vite, Tailwind CSS  
 - **Backend:** Appwrite, Firebase, Supabase (where needed)  
-- **AI:** OpenAI / Together AI  
-- **Tools:** GitHub Copilot Pro, VS Code, Netlify, Railway
+- **Tools:** GitHub Copilot Pro, VS Code, Netlify, Render
 
 ---
 
 ### 📚 Currently...
 
 - Studying Computer Applications  
-- Working on the Startup India application for my AI SaaS  
 - Planning a platform to unite students globally via powerful learning tools  
 
 ---

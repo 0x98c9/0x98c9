@@ -7,10 +7,9 @@ I love creating **free tools** that make life easier for students, creators, and
 
 ### 🚀 What I'm Building
 
-I’ve built **10+ micro SaaS products** focused on education, productivity, and utility:
+I’ve built **5+ micro SaaS products** focused on education, productivity, and utility:
 
 - ⏰ TimeZune – A mobile-first world clock & time zone converter *(link updating soon)*  
-- ✍️ AI Content Repurposer – Turn YouTube videos into Twitter/X threads *(link updating soon)*  
 - 🖥️ Website Monitor – Simple uptime tracking for your site *(link updating soon)*  
 - 📓 Private Journal – Your space to reflect, privately *(link updating soon)*  
 - ✅ Task Manager – Clean, simple, no-login to-do tracker *(link updating soon)*  
@@ -36,14 +35,12 @@ I’ve built **10+ micro SaaS products** focused on education, productivity, and
 - Studying Computer Applications  
 - Working on the Startup India application for my AI SaaS  
 - Planning a platform to unite students globally via powerful learning tools  
-- Making all tools available at: [`tools.domain.com`](#) *(coming soon)*
 
 ---
 
 ### 🤝 Let's Connect
 
-- 💬 DM me on [BlueSky](https://bsky.app/profile/humayan.bsky.social)  
-- 🌐 Explore my tools: [domain.com](#) *(coming soon)*
+- 💬 DM me on [BlueSky](https://bsky.app/profile/humayan.bsky.social)  or [Twitter/X](https://x.com/0x98c9)
 - 🧠 I believe in calm focus, building silently, and creating for impact.
 
 ---

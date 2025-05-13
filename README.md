@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hey, I'm Sony!
 
-<!--
-**0x98c9/0x98c9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22-year-old indie hacker, student, and micro SaaS builder from India 🇮🇳  
+I love creating **free tools** that make life easier for students, creators, and developers — with **no ads, no fluff, just value.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Building
+
+I’ve built **10+ micro SaaS products** focused on education, productivity, and utility:
+
+- ⏰ TimeZune – A mobile-first world clock & time zone converter *(link updating soon)*  
+- ✍️ AI Content Repurposer – Turn YouTube videos into Twitter/X threads *(link updating soon)*  
+- 🖥️ Website Monitor – Simple uptime tracking for your site *(link updating soon)*  
+- 📓 Private Journal – Your space to reflect, privately *(link updating soon)*  
+- ✅ Task Manager – Clean, simple, no-login to-do tracker *(link updating soon)*  
+- 🎓 7+ Study Tools – GPA calculator, focus timer, citation generator & more *(link updating soon)*  
+- 💰 **SaveFlow** – A lightweight, local-storage-based expense tracker ➜ [Try it here](https://saveflow.onrender.com/)  
+- 🔗 **SayHi Link** – Create shareable Whatsapp links with custom text ➜ [Try it here](https://sayhilink.netlify.app/)
+
+> All my tools are **100% free** — some forever, some with premium features if users want more.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, Tailwind CSS  
+- **Backend:** Appwrite, Firebase, Supabase (where needed)  
+- **AI:** OpenAI / Together AI  
+- **Tools:** GitHub Copilot Pro, VS Code, Netlify, Railway
+
+---
+
+### 📚 Currently...
+
+- Studying Computer Applications  
+- Working on the Startup India application for my AI SaaS  
+- Planning a platform to unite students globally via powerful learning tools  
+- Making all tools available at: [`tools.domain.com`](#) *(coming soon)*
+
+---
+
+### 🤝 Let's Connect
+
+- 💬 DM me on [BlueSky](https://bsky.app/profile/humayan.bsky.social)  
+- 🌐 Explore my tools: [domain.com](#) *(coming soon)*
+- 🧠 I believe in calm focus, building silently, and creating for impact.
+
+---
+
+Thanks for dropping by! 😊  

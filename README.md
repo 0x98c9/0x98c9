@@ -32,7 +32,8 @@ I’ve built **some micro SaaS products** focused on education, productivity, an
 ### 📚 Currently...
 
 - Studying Computer Applications  
-- Planning a platform to unite students globally via powerful learning tools  
+- Planning a platform to unite students globally via powerful learning tools
+- Say hi at [hi@webxzet.tech](mailto:hi@webxzet.tech)
 
 ---
 
@@ -41,6 +42,4 @@ I’ve built **some micro SaaS products** focused on education, productivity, an
 - 💬 DM me on [BlueSky](https://bsky.app/profile/humayan.bsky.social)  or [Twitter/X](https://x.com/0x98c9)
 - 🧠 I believe in calm focus, building silently, and creating for impact.
 
----
 
-Thanks for dropping by! 😊  

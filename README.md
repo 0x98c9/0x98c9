@@ -11,12 +11,12 @@ I’ve built **some micro SaaS products** focused on education, productivity, an
 
 - ⏰ TimeZune – A mobile-first world clock & time zone converter *(link updating soon)*  
 - 🖥️ Website Monitor – Simple uptime tracking for your site *(link updating soon)*  
-- 📓 Private Journal – Your space to reflect, privately *(link updating soon)*  
-- ✅ Task Manager – Clean, simple, no-login to-do tracker *(link updating soon)*  
-- 🎓 **WebxZet** – GPA calculator, focus timer, citation generator & more  ➜ [Try it here](https://webxzet.tech/)
-- 💰 **SaveFlow** – A lightweight, local-storage-based expense tracker ➜ [Try it here](https://saveflow.onrender.com/)  
-- 🔗 **SayHi Link** – Create shareable Whatsapp links with custom text ➜ [Try it here](https://sayhilink.netlify.app/)
-- 🚀 **Humaayn** – My portfolio website  ➜ [Try it here](https://humayan.pages.dev/)
+- ✅ Task Manager – Clean, simple, no-login to-do tracker *(link updating soon)*
+- 📓 **Lumen** – Your space to reflect, privately [Lumen](https://lumenbook.pages.dev/)
+- 🎓 **WebxZet** – GPA calculator, focus timer, citation generator & more  ➜ [WebxZet](https://webxzet.tech/)
+- 💰 **SaveFlow** – A lightweight, local-storage-based expense tracker ➜ [SaveFlow](https://saveflow.onrender.com/)  
+- 🔗 **SayHi Link** – Create shareable Whatsapp links with custom text ➜ [SayHi Link](https://sayhilink.netlify.app/)
+- 🚀 **Humayan** – My developer portfolio website  ➜ [Portfolio](https://humayan.pages.dev/)
 
 > All my tools are **100% free** — some forever, some with premium features if users want more.
 

@@ -24,7 +24,7 @@ I’ve built **some micro SaaS products** focused on education, productivity, an
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** React, Vite, Tailwind CSS  
+- **Frontend:** Astro, Vite, Tailwind CSS  
 - **Backend:** Appwrite, Firebase, Supabase (where needed)  
 - **Tools:** GitHub Copilot Pro, VS Code, Netlify, Render
 

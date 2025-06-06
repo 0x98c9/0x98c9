@@ -65,8 +65,6 @@ Here are some **micro tools** I've built to simplify daily life:
 
 - 💬 [BlueSky](https://bsky.app/profile/humayan.bsky.social)  
 - 💬 [Twitter/X](https://x.com/0x98c9)  
-- 🧠 I believe in calm focus, building silently, and creating for impact.
-
 ---
 
 > “Tools that respect your time and data — no tracking, no noise, just flow.”

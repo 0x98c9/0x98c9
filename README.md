@@ -11,7 +11,7 @@ I’ve built **some micro SaaS products** focused on education, productivity, an
 
 - ⏰ TimeZune – A mobile-first world clock & time zone converter *(link updating soon)*  
 - 🖥️ Website Monitor – Simple uptime tracking for your site *(link updating soon)*  
-- ✅ Task Manager – Clean, simple, no-login to-do tracker *(link updating soon)*
+- ✅ Tazko – Clean, simple, no-login task management system  ➜ [Tazko](https://tazko.pages.dev/)
 - 📓 **Lumen** – Your space to reflect, privately  ➜ [Lumen](https://lumenbook.pages.dev/)
 - 🎓 **WebxZet** – GPA calculator, focus timer, citation generator & more  ➜ [WebxZet](https://webxzet.tech/)
 - 💰 **SaveFlow** – A lightweight, local-storage-based expense tracker ➜ [SaveFlow](https://saveflow.onrender.com/)  

@@ -11,6 +11,9 @@ I love building **free, privacy-first tools** for students, developers, and crea
 
 Here are some **micro tools** I've built to simplify daily life:
 
+- 🧘 **Portfolio** – My calm developer space  
+  ➜ [humayan.pages.dev](https://humayan.pages.dev/)
+
 - ✅ **Tazko** – Clean, no-login task manager  
   ➜ [tazko.pages.dev](https://tazko.pages.dev/)
 
@@ -26,14 +29,9 @@ Here are some **micro tools** I've built to simplify daily life:
 - 🔗 **SayHi Link** – Create WhatsApp links with custom messages  
   ➜ [sayhilink.netlify.app](https://sayhilink.netlify.app/)
 
-- ⏰ **TimeZune** – Mobile-first world clock *(link coming soon)*
+- ⏰ **FakeMint** – Generate realistic fake data instantly for development, testing, and design  
+  ➜ [fakemint.netlify.app](https://fakemint.netlify.app/)
 
-- 🖥️ **Website Monitor** – Simple uptime tracker *(link coming soon)*
-
-- 🧘 **Portfolio** – My calm developer space  
-  ➜ [humayan.pages.dev](https://humayan.pages.dev/)
-
-[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-0A192F?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://humayan.pages.dev)
 
 > Everything I build is **100% free** — forever or with optional extras.
 

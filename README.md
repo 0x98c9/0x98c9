@@ -1,45 +1,44 @@
-# 👋 Hey, I'm Humayan!
+# 👋 Hey, I'm Humayan
 
-I'm a 22-year-old indie hacker, student, and micro SaaS builder from India.
-I love creating **free tools** that make life easier for students, creators, and developers — with **no ads, no fluff, just value.**
+I'm a 22-year-old indie hacker, BCA student, and micro-SaaS builder from India.
+
+I love creating **free, no-login tools** for students, developers, and creators — with **no ads, no noise, just value**.
 
 ---
 
 ### 🚀 What I'm Building
 
-I’ve built **some micro SaaS products** focused on education, productivity, and utility:
+Here are some **micro SaaS products** I've built for productivity, education, and utility:
 
-- ⏰ TimeZune – A mobile-first world clock & time zone converter *(link updating soon)*  
-- 🖥️ Website Monitor – Simple uptime tracking for your site *(link updating soon)*  
-- ✅ Tazko – Clean, simple, no-login task management system  ➜ [Tazko](https://tazko.pages.dev/)
-- 📓 **Lumen** – Your space to reflect, privately  ➜ [Lumen](https://lumenbook.pages.dev/)
-- 🎓 **WebxZet** – GPA calculator, focus timer, citation generator & more  ➜ [WebxZet](https://webxzet.tech/)
-- 💰 **SaveFlow** – A lightweight, local-storage-based expense tracker ➜ [SaveFlow](https://saveflow.onrender.com/)  
-- 🔗 **SayHi Link** – Create shareable Whatsapp links with custom text ➜ [SayHi Link](https://sayhilink.netlify.app/)
-- 🚀 **Humayan** – My developer portfolio website  ➜ [Portfolio](https://humayan.pages.dev/)
+- ⏰ **TimeZune** – Mobile-first world clock & time zone converter *(link coming soon)*
+- 🖥️ **Website Monitor** – Simple uptime tracking *(link coming soon)*
+- ✅ **Tazko** – Clean, no-login task manager ➜ [tazko.pages.dev](https://tazko.pages.dev/)
+- 📓 **Lumen** – A quiet space to reflect, privately ➜ [lumenbook.pages.dev](https://lumenbook.pages.dev/)
+- 🎓 **WebxZet** – GPA calculator, study timer, citation tool & more ➜ [webxzet.tech](https://webxzet.tech/)
+- 💰 **SaveFlow** – Lightweight local expense tracker ➜ [saveflow.onrender.com](https://saveflow.onrender.com/)
+- 🔗 **SayHi Link** – Create WhatsApp links with custom text ➜ [sayhilink.netlify.app](https://sayhilink.netlify.app/)
+- 🧘 **Portfolio** – My calm developer space ➜ [humayan.pages.dev](https://humayan.pages.dev/)
 
-> All my tools are **100% free** — some forever, some with premium features if users want more.
+> Everything I build is **100% free** — forever or with optional upgrades.
 
 ---
 
 ### 🛠️ Tech Stack
 
 - **Frontend:** Astro, Vite, Tailwind CSS  
-- **Backend:** Appwrite, Firebase, Supabase (where needed)  
+- **Backend (when needed):** Appwrite, Firebase, Supabase  
 - **Tools:** GitHub Copilot Pro, VS Code, Netlify, Render
 
 ---
 
 ### 📚 Currently...
 
-- Studying Computer Applications  
-- Learning AI applications
+- 🎓 Studying Computer Applications (BCA)
+- 🤖 Exploring Tauri and AI-based tools
 
 ---
 
 ### 🤝 Let's Connect
 
-- 💬 DM me on [BlueSky](https://bsky.app/profile/humayan.bsky.social)  or [Twitter/X](https://x.com/0x98c9)
-- 🧠 I believe in calm focus, building silently, and creating for impact.
-
-
+- 💬 DM me on [BlueSky](https://bsky.app/profile/humayan.bsky.social) or [Twitter/X](https://x.com/0x98c9)
+- 🧠 I believe in calm focus, building offline-first, and creating tools with intention.

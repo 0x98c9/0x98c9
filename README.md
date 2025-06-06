@@ -1,8 +1,10 @@
 # 👋 Hey, I'm Humayan
 
 I'm a 22-year-old indie hacker, BCA student, and micro-SaaS builder from India.  
+
 I love building **free, privacy-first tools** for students, developers, and creators —  
 **no ads, no noise, just value.**
+
 ---
 
 ### 🚀 What I'm Building

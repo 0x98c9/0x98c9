@@ -33,8 +33,7 @@ I’ve built **some micro SaaS products** focused on education, productivity, an
 ### 📚 Currently...
 
 - Studying Computer Applications  
-- Planning a platform to unite students globally via powerful learning tools
-- Say hi at [hi@webxzet.tech](mailto:hi@webxzet.tech)
+- Learning AI applications
 
 ---
 

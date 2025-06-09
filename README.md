@@ -23,8 +23,8 @@ Here are some **micro tools** I've built to simplify daily life:
 - 🎓 **WebxZet** – GPA calculator, focus timer, citation generator & more  
   ➜ [webxzet.tech](https://webxzet.tech/)
 
-- 💰 **SaveFlow** – Lightweight, local expense tracker  
-  ➜ [saveflow.onrender.com](https://saveflow.onrender.com/)
+- 💰 **4xShell** – A premium-looking typescript-based web terminal.  
+  ➜ [4xshell.pages.dev](https://4xshell.pages.dev/)
 
 - 🔗 **SayHi Link** – Create WhatsApp links with custom messages  
   ➜ [sayhilink.netlify.app](https://sayhilink.netlify.app/)

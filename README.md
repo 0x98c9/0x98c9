@@ -17,8 +17,8 @@ Here are some **micro tools** I've built to simplify daily life:
 - ✅ **Tazko** – Clean, no-login task manager  
   ➜ [tazko.pages.dev](https://tazko.pages.dev/)
 
-- 📓 **Lumen** – A quiet space to reflect, privately  
-  ➜ [lumenbook.pages.dev](https://lumenbook.pages.dev/)
+- 👩🏻‍💻 **4xFlow** – Offline productivity app to manage tasks, ideas, and projects.  
+  ➜ [fourxflow.pages.dev](https://fourxflow.pages.dev)
 
 - 🎓 **WebxZet** – GPA calculator, focus timer, citation generator & more  
   ➜ [webxzet.tech](https://webxzet.tech/)
